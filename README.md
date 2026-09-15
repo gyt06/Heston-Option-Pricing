@@ -1,5 +1,11 @@
 # Option Pricing with Stochastic Volatility — M2R Group 51
 
+## My Contribution (Group Project)(gyt06)
+This was a collaborative project. My specific contributions:
+- **Co-implemented** the 2D recombining tree method for Heston PDE pricing, with a focus on bilinear interpolation for off-grid jump targets and full truncation for variance positivity.
+- **Designed and ran** the convergence benchmarking experiments comparing the tree method against FDM and Monte Carlo.
+- **Authored** the Discussion & Conclusion sections of the 50-page technical report, interpreting the convergence rate and method trade-offs.
+
 ## Project Structure
 
 ```text
